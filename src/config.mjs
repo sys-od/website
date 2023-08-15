@@ -1,13 +1,13 @@
-import defaultImage from './assets/images/sychonixx.png';
+import defaultImage from './assets/images/vinjan.png';
 
 const CONFIG = {
-  name: 'sychonix',
+  name: 'vinjan',
 
-  origin: 'https://service.sychonix.me/',
+  origin: 'https://service.vinjan.xyz/',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'sychonix - Highly Secured Staking Provider',
+  title: 'vinjan - Trusted Staking Provider',
   description:
     'Validator & Node Operator Cosmos Networks',
   defaultImage: defaultImage,
